@@ -1,3 +1,3 @@
 a=5
-b=5
-print(a+b)
+b=4
+print(a*b)
